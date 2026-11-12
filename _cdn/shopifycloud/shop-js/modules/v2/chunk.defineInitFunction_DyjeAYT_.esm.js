@@ -1,0 +1,2 @@
+import{t as o}from"./chunk.window_CAbVMZox.esm.js";function i(i,h){Boolean(o.customElements)&&(o.Shopify||(o.Shopify={}),o.Shopify.SignInWithShop||(o.Shopify.SignInWithShop={}),o.Shopify.SignInWithShop[i]=h)}export{i as t};
+//# sourceMappingURL=chunk.defineInitFunction_DyjeAYT_.esm.js.map
